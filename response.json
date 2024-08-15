@@ -1,0 +1,18 @@
+{
+  
+    "SuccessResponse": {
+        "SuccessfulAddRecord": "You have Added",
+        "SuccessfulUpdateRecord": "You have Updated",
+        "SuccessfulLoadRecord":"Data Loaded Successfully",
+        "SuccessfulAddRecordMessage":"Data Added Successfully"
+    },
+    "ErrorResponse": {
+        "UnAuthorizedUser": "You are not Authorized for this operation",
+        "TokenExpired": "Session Timeout!!! Kindly close the session and login again.",
+        "InvalidToken":"Access denied,invalid token",
+        "NoToken":"Access denied, check the access token is sent correctly.",
+        "NoRecordsFound": "No Records Found",
+        "ServiceError": "Unable to process request.",
+        "InvalidInput": "Special characters @+=- are not allowed at start." 
+    }
+}
